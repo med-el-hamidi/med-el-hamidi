@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @med-el-hamidi
-- 👀 I’m interested in software developement in general
+- 👀 I’m interested in software developement especially web dev.
 
 <!---
 med-el-hamidi/med-el-hamidi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
