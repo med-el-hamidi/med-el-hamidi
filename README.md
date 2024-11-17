@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @med-el-hamidi
+- 👋 Hi, I’m @med-hamidi
 - 👀 I’m interested in software developement especially web dev.
 
 <!---
