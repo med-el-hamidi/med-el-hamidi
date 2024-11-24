@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @med-el-hamidi
+- 👋 Hi, I’m @med-el-hamidi, student at 1337 Coding school (42 Network)
 - 👀 I’m interested in software developement.
 
 <!---
